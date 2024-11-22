@@ -3,7 +3,7 @@
 # Senior Project
 
 *Team Members:*  
-`Pranavi Guttikonda` 
+`Pranavi Guttikonda`<br> 
 `Uma Devi Bontha`  
 `Sujoy paul dakkumalla`     
 `Sai Kaushik Peesari`    
